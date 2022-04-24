@@ -10,15 +10,13 @@
     <link rel="stylesheet" href="style.css">
   </head>
   <body>
-    <form autocomplete="off" action="" method="post" enctype="multipart/form-data">
-      Image <input type="file" name = "image" id="image" value = "">
-      Background Color <input type="text" name="background" id = "background" value="#734C99">
-      Text Color <input type="text" name="text" id = "text" value="#fff">
-      Border Color <input type="text" name="border" id = "border" value="#000"> <br>
-      From <input type="text" name="from" id = "from" value="From">
-      Message <input type="text" name="message" id = "message" value="Message">
-      To <input type="text" name="to" id = "to" value="To">
-    </form>
+    Image <input type="file" name = "image" id="image" value = "">
+    Background Color <input type="text" name="background" id = "background" value="#734C99">
+    Text Color <input type="text" name="text" id = "text" value="#fff">
+    Border Color <input type="text" name="border" id = "border" value="#000"> <br>
+    From <input type="text" name="from" id = "from" value="From">
+    Message <input type="text" name="message" id = "message" value="Message">
+    To <input type="text" name="to" id = "to" value="To">
 
     <hr>
 
